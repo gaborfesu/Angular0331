@@ -5,7 +5,7 @@
 * Group: Szoft II/N
 * Date: 2022-03-31
 * Github: https://github.com/gaborfesu
-* Licenc: GNU GPL
+* Licenc: GNU GPL 
 */
 import { Component, OnInit } from '@angular/core';
 import { FormControl, FormGroup, Validators} from '@angular/forms';
